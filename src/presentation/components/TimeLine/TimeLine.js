@@ -18,11 +18,11 @@ const TimeLine = () => {
           flexGrow: 1,
           backgroundColor: theme.colors.surface,
         }}>
-        {/* <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
           <WELCOMESVG width="250px" height="250px" />
           <Text style={styles.TextStyle}>Welcome !!!</Text>
           <Text style={styles.TextStyle}>To React Native Boiler Plate.</Text>
-        </View> */}
+        </View>
         <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
           <CustomButton
             title="Go to myprofile"
