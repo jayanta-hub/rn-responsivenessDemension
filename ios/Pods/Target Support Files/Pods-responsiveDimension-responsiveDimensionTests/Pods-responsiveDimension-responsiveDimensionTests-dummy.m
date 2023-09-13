@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_responsiveDimension_responsiveDimensionTests : NSObject
+@end
+@implementation PodsDummy_Pods_responsiveDimension_responsiveDimensionTests
+@end

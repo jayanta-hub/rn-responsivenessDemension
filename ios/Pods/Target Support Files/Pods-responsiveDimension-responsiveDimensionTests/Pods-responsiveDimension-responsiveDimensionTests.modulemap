@@ -1,0 +1,6 @@
+module Pods_responsiveDimension_responsiveDimensionTests {
+  umbrella header "Pods-responsiveDimension-responsiveDimensionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
